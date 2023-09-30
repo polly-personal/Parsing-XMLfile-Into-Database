@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <name>Капитанская дочка</name>
+        <author>А.С. Пушкин</author>
+    </book>
+    <book>
+        <name>Тихий Дон</name>
+        <author>М.А. Шлолохов</author>
+    </book>
+    <book>
+        <name>Тихий Дон</name>
+        <author>М.А. Шлолохов</author>
+    </book>
+    <book>
+        <name>Война и мир</name>
+        <author>Л. Н. Толстой</author>
+    </book>
+</books>
